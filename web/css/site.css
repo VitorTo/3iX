@@ -1,0 +1,9 @@
+main>.container {
+    padding-top: 70px;
+    padding-bottom: -1px;
+    /* padding:  70px 15px 0px; */
+}
+
+.text-none {
+    text-decoration: none !important;
+}
